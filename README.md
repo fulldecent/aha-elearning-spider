@@ -1,3 +1,5 @@
+STATUS: recently AHA changed their website so you can no longer check online if a course was activated or not, until that is fixed, aha-elearning-spider is broken
+
 # AHA eLearning Spider
 A PHP project to check which AHA eLearning codes are used or unused
 
